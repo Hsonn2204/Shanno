@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\BTL_ShannoFano\BTL_ShannoFano\bin\Debug\net8.0\BTL_ShannoFano.exe
+C:\Users\Admin\source\repos\BTL_ShannoFano\BTL_ShannoFano\bin\Debug\net8.0\BTL_ShannoFano.deps.json
+C:\Users\Admin\source\repos\BTL_ShannoFano\BTL_ShannoFano\bin\Debug\net8.0\BTL_ShannoFano.runtimeconfig.json
+C:\Users\Admin\source\repos\BTL_ShannoFano\BTL_ShannoFano\bin\Debug\net8.0\BTL_ShannoFano.dll
+C:\Users\Admin\source\repos\BTL_ShannoFano\BTL_ShannoFano\bin\Debug\net8.0\BTL_ShannoFano.pdb
+C:\Users\Admin\source\repos\BTL_ShannoFano\BTL_ShannoFano\obj\Debug\net8.0\BTL_ShannoFano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BTL_ShannoFano\BTL_ShannoFano\obj\Debug\net8.0\BTL_ShannoFano.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BTL_ShannoFano\BTL_ShannoFano\obj\Debug\net8.0\BTL_ShannoFano.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BTL_ShannoFano\BTL_ShannoFano\obj\Debug\net8.0\BTL_ShannoFano.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BTL_ShannoFano\BTL_ShannoFano\obj\Debug\net8.0\BTL_ShannoFano.dll
+C:\Users\Admin\source\repos\BTL_ShannoFano\BTL_ShannoFano\obj\Debug\net8.0\refint\BTL_ShannoFano.dll
+C:\Users\Admin\source\repos\BTL_ShannoFano\BTL_ShannoFano\obj\Debug\net8.0\BTL_ShannoFano.pdb
+C:\Users\Admin\source\repos\BTL_ShannoFano\BTL_ShannoFano\obj\Debug\net8.0\BTL_ShannoFano.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BTL_ShannoFano\BTL_ShannoFano\obj\Debug\net8.0\ref\BTL_ShannoFano.dll
